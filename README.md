@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C,Cpp, java
 - 💞️ I’m looking to collaborate on valuable companies
-- 📫 to reach me by contact on 9667204085
+- 📫 to reach me by contact harshilathwaniofficial@proton.me
 
 <!---
 Harshilathwani/Harshilathwani is a ✨ special ✨ repository because its `read.me` (this file) appears on your GitHub profile.
